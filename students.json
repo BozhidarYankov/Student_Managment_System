@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Miroslav Georgiev",
+        "id": "001928384",
+        "email": "miro@gmail.com",
+        "major": "Business",
+        "courses": {
+            "BUS3042": 86
+        },
+        "gpa": 3.3,
+        "thesis_title": "Marketing"
+    },
+    {
+        "name": "Ivan Ivanov",
+        "id": "881234621",
+        "email": "ivan@gmail.com",
+        "major": "Business",
+        "courses": {
+            "BUS2034": 86
+        },
+        "gpa": 3.3,
+        "thesis_title": "Digital Marketing"
+    },
+    {
+        "name": "Maya Kirkova",
+        "id": "662843327",
+        "email": "maya@gmail.com",
+        "major": "Psychology",
+        "courses": {
+            "PHY4001": 81
+        },
+        "gpa": 3.0,
+        "thesis_title": ""
+    },
+    {
+        "name": "Kristian Petrov",
+        "id": "882934485",
+        "email": "kris05@gmail.com",
+        "major": "Literature",
+        "courses": {
+            "LIT3021": 85
+        },
+        "gpa": 3.0,
+        "thesis_title": "Balkan Literature"
+    },
+    {
+        "name": "Polina Plamenova",
+        "id": "552844374",
+        "email": "poli@gmail.com",
+        "major": "Economics",
+        "courses": {
+            "ECO2022": 83
+        },
+        "gpa": 3.0,
+        "thesis_title": ""
+    },
+    {
+        "name": "Metodii Georgiev",
+        "id": "772934428",
+        "email": "meto@gmail.com",
+        "major": "History",
+        "courses": {
+            "HIS1022": 86
+        },
+        "gpa": 3.0,
+        "thesis_title": ""
+    }
+]
